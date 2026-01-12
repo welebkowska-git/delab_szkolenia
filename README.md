@@ -3,6 +3,7 @@
 Website developed for the report  
 **„Motywacje szkoleniowe w gospodarce cyfrowej: Przekwalifikowanie i podnoszenie kwalifikacji jako odpowiedź na wyzwania zmieniającego się rynku pracy”**  
 (DELab UW).
+Link: https://delab-uw.github.io/delab_szkolenia/
 
 The website presents the full content of the report in an accessible, web-based format and includes **interactive data visualizations embedded directly within the site**.
 
